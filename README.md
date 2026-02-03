@@ -1,1 +1,2 @@
-[Nearest Neighbor Prototyping(CSE210)](Nearest Neighbor Prototyping(CSE210).pdf)
+[Nearest Neighbor Prototyping(CSE210)](Prototyping.pdf)
+
