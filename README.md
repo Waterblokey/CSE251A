@@ -1,3 +1,4 @@
-[Nearest Neighbor Prototyping(CSE251A)]("Project 1/Prototyping.pdf")
+[Nearest Neighbor Prototyping(CSE251A)](<Project 1/Prototyping.pdf>)
+
 
 
