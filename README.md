@@ -1,2 +1,3 @@
-[Nearest Neighbor Prototyping(CSE210)](Prototyping.pdf)
+[Nearest Neighbor Prototyping(CSE251A)](Prototyping.pdf)
+
 
